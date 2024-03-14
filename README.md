@@ -8,6 +8,7 @@ It doesn't do much but hey, I don't care! 🤠
 ## Development server
 
 Run `ng serve` for a dev server.
+http://localhost:4200/
 
 ## Running unit tests
 
